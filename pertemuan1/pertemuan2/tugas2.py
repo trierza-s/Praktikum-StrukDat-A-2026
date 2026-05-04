@@ -21,7 +21,7 @@ print(thislistnilai)
 #Tugas set
 keahlian_A = {"Python", "Java", "SQL", "Git"}
 keahlian_B = {"Python", "C++", "Git", "Docker"}
-
+print(" ")
 print(keahlian_A)
 print(keahlian_B)
 

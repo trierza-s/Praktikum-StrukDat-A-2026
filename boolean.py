@@ -15,3 +15,5 @@ else:
 #Evaluasi sebuah string dan sebuah angka:
 print(bool("Hello"))
 print(bool(15))
+
+
